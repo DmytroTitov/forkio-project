@@ -1,4 +1,4 @@
-# HTML, SCSS, JS, Gulp 
+# HTML5, SCSS, JS(ES6), Gulp 
 
 **Second step-project in DAN-IT**
 

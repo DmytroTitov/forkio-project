@@ -11,4 +11,4 @@
 * [Danil Gulak](https://gitlab.com/DanilGulak) - header, hero & testimonials sections
 
 ### Working page:
-[Look to the landing](https://dmytrotitov.github.io/forkio/index.html#)
+[Look to the landing](https://dmytrotitov.github.io/forkio-project/)
